@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Online-Library-Management-System
 A Simple Online Library Management System for School and Colleges.
 
@@ -103,3 +104,7 @@ Open Your browser put inside browser “http://online-library-management-system.
 ![alt text](https://github.com/abdo-essam/Online-Library-Management-System/blob/main/Images/Student%20Dashboard.png?raw=true)
 
 
+=======
+# web-development-projects
+Collection of my web development projects including PHP, MySQL, JavaScript, and full-stack applications such as e-commerce website, admin dashboards, and portfolio website.
+>>>>>>> 1c11fa4d45fdbc581b64201fedbbbabca050f18d
